@@ -1,0 +1,25 @@
+:root{
+    --orange:#ED6A5A;
+    --yellow:#F4F1BB;
+    --green:#9BC1BC;
+    --grey:#5D576B;
+    --white:#FFFFFF;
+    --black:#000;
+    
+
+}
+.section-1-1{
+background-color: var(--grey);
+color:var(--white);
+}
+.section-2{
+    background-color: var(--orange);
+    color:var(--white);
+}
+.collapse{
+    background-color: var(--green);
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    
+}
